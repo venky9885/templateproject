@@ -3,7 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-
+  
+  
+ Latest Flutter Version 2.5.0 With null safety ,Help to Add language in app and Theme
+ 
 This project is a starting point for a Flutter application that follows the
 [simple app state management
 tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
