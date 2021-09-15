@@ -1,0 +1,10 @@
+{
+  "appTitle": "templateproject",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "languauge": "English",
+  "@languauge": {
+    "description": "The languauge of the application"
+  }
+}
